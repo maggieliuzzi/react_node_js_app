@@ -10,9 +10,11 @@
     "cors": "^2.8.4",
     "dotenv": "^6.0.0",
     "express": "^4.16.3",
+    "heroku": "^7.18.3",
     "mongodb": "^3.1.4",
     "mongoose": "^5.2.8",
     "newsapi": "^2.4.0",
+    "node": "^8.11.3", // Added Node.js version for Heroku
     "nodemon": "^1.18.3",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
