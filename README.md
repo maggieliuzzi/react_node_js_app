@@ -1,7 +1,7 @@
 # Up2Date
 This program is built as part of Assignment 3 for Advanced Internet Programming at the University of Technology, Sydney, during the Spring 2018 semester.
 
-It was developed by **Abhusha Bogati**, **Mitchell Clarke** and **Maggie Liuzzi**.
+It was developed by **Maggie Liuzzi**, **Mitchell Clarke** and **Abhusha Bogati**.
 
 
 
